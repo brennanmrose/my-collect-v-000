@@ -1,8 +1,3 @@
-# def my_collect(array)
-  
-# end 
-
-
 def my_collect(array)
   i = 0
   collection = []
@@ -12,6 +7,3 @@ def my_collect(array)
   end
   collection
 end
-
-
-# hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
